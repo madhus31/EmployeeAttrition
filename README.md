@@ -1,3 +1,3 @@
-# EmployeeAttrition
-Github session - Employee Attrition
-# employee attrition
+# Employee Attrition
+![image.png](images/HRTalent.png)
+
