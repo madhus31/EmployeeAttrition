@@ -1,6 +1,7 @@
-﻿
+
 
 # Machine Learning - Candy Data
+
 ![cancy.png](ML-Candy Data/image/cancy.png)
 
 
@@ -33,4 +34,5 @@ _As we can see, we’re working with quite a small dataset here that contains ce
 There are 85 observation. Total 85 brands and 8 variety of candy's. There seems to have no missing values in our dataset.
 
 [Jupyter Notebook](./Candy Data set -ML project- Linear Regression Model.ipynb)
+
 
