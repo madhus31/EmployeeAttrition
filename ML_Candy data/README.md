@@ -2,7 +2,7 @@
 
 # Machine Learning - Candy Data
 
-![cancy.png](ML-Candy Data/image/cancy.png)
+![cancy.png](ML-Candy data/image/cancy.png)
 
 
 
